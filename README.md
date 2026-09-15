@@ -1,3 +1,3 @@
-# AllTerex
+# AllTarex
 
-> AllTerex - open source project, which bind github issue and users form
+> AllTarex - open source project, which bind github issue and users form
